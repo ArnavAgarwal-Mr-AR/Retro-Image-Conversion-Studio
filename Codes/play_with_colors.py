@@ -1,0 +1,15 @@
+from colorama import Fore, Back, Style
+
+print(Fore.BLACK)
+print(Back.LIGHTYELLOW_EX)
+print(Style.NORMAL + 'and in normal text')
+print(Style.BRIGHT + 'and in bright text')
+print(Style.DIM + 'and in dim text')
+print(Style.RESET_ALL)
+print(Fore.BLACK)
+print(Back.YELLOW)
+print(Style.NORMAL + 'and in normal text')
+print(Style.BRIGHT + 'and in bright text')
+print(Style.DIM + 'and in dim text')
+print(Style.RESET_ALL)
+print('back to normal now')
