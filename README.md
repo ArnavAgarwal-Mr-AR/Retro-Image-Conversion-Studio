@@ -54,9 +54,10 @@ Different color styles is inspired from [colorama](https://pypi.org/project/colo
 
 ## Contact me 📪
 <div id="badges">
-  <a href="https://www.linkedin.com/in/arnav-agarwal-571a59243/" & target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/arnav-agarwal-571a59243/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 
 
