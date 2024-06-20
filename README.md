@@ -9,6 +9,9 @@ In the early days of computing and gaming, before the advent of high-resolution 
 
 ![](https://github.com/ArnavAgarwal-Mr-AR/Retro-Image-Conversion-Studio/blob/main/Images/image1.png)
 
+![Image 1](https://github.com/ArnavAgarwal-Mr-AR/Retro-Image-Conversion-Studio/blob/main/Images/test8890.jpg) ![Converted Image 1](https://github.com/ArnavAgarwal-Mr-AR/Retro-Image-Conversion-Studio/blob/main/Images/gen1.png)
+
+
 # Files
 The repo consists of two files: one main python file and another play with color file. 
 
