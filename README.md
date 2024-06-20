@@ -43,7 +43,7 @@ Image 4 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
 ## ⚠️
 After running the file in terminal you wont be able to see the image directly. You have to zoom in terminal using ```ctrl```+```-```. This will help you see the ASCII image. 
-Further modification, hat needs to be done for better results is explained in comments in python file. 
+Further modification (if needed for better results) is explained in comments in python file. 
 
 **Hope you like it ☺️**
 
