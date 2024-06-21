@@ -43,7 +43,7 @@ Image 4 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 
 ## ⚠️
 After running the file in terminal you wont be able to see the image directly. You have to zoom in terminal using ```ctrl```+```-```. This will help you see the ASCII image. 
-Further modification (if needed for better results) is explained in comments in python file. 
+Further modification (if needed for better results) is explained in comments in python file. The color will also depend on the platform you use to code, some code will show different colors for windows termial and VS Code. Its advised not to use Jupyter or Kaggle or any other online notebook for this.
 
 **Hope you like it ☺️**
 
@@ -54,9 +54,16 @@ Different color styles is inspired from [colorama](https://pypi.org/project/colo
 
 ## Contact me 📪
 <div id="badges">
-  <a href="https://www.linkedin.com/in/arnav-agarwal-571a59243/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/arnav-agarwal-571a59243/" target="blank">
+   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+ <a href="https://www.instagram.com/processing_arnav?igsh=MWUxaWlkanZob2lqeA==" target="blank">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  alt="Instagram Badge" />
+ </a>
+ </a>
+ <a href="https://medium.com/@arumynameis" target="blank">
+ <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  alt="Medium Badge" />
+ </a>
 </div>
 
 
