@@ -101,12 +101,4 @@ intensity_matrix = normalize_intensity_matrix(intensity_matrix)
 
 
 ascii_matrix = convert_to_ascii(intensity_matrix, ASCII_CHARS)
-#print(Back.LIGHTCYAN_EX) #I added this line
 print_ascii_matrix(ascii_matrix, Fore.BLUE)
-#print_ascii_matrix(ascii_matrix)
-
-
-#TRY K1 in yellow in hsv
-#TRY S1 in green in max_min
-#TRY c1 in blue in hsv
-#TRY test8890 in cyan in hsp
